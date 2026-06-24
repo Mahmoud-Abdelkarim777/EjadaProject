@@ -1,1 +1,1 @@
-https://vercel.com/asd777/ejada-project # EjadaProject
+https://ejada-project.vercel.app/ # EjadaProject
